@@ -1,0 +1,10 @@
+C:\Users\adrie\RiderProjects\tamagochi3\tamagochi3\bin\Debug\tamagochi3.exe.config
+C:\Users\adrie\RiderProjects\tamagochi3\tamagochi3\bin\Debug\tamagochi3.exe
+C:\Users\adrie\RiderProjects\tamagochi3\tamagochi3\bin\Debug\tamagochi3.pdb
+C:\Users\adrie\RiderProjects\tamagochi3\tamagochi3\obj\Debug\tamagochi3.csproj.AssemblyReference.cache
+C:\Users\adrie\RiderProjects\tamagochi3\tamagochi3\obj\Debug\tamagochi3.Properties.Resources.resources
+C:\Users\adrie\RiderProjects\tamagochi3\tamagochi3\obj\Debug\tamagochi3.csproj.GenerateResource.cache
+C:\Users\adrie\RiderProjects\tamagochi3\tamagochi3\obj\Debug\tamagochi3.csproj.CoreCompileInputs.cache
+C:\Users\adrie\RiderProjects\tamagochi3\tamagochi3\obj\Debug\tamagochi3.exe
+C:\Users\adrie\RiderProjects\tamagochi3\tamagochi3\obj\Debug\tamagochi3.pdb
+C:\Users\adrie\RiderProjects\tamagochi3\tamagochi3\obj\Debug\tamagochi3.Form1.resources
